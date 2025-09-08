@@ -57,6 +57,3 @@ This project is open source and available for educational use. Please cite this 
 
 Contributions welcome! Please read the documentation and submit pull requests.
 
----
-
-**⚡ Bringing digital logic to life through interactive gaming!**
