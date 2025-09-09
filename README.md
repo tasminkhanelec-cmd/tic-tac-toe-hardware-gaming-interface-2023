@@ -2,7 +2,7 @@
 
 A hardware-based Tic Tac Toe game implemented using digital logic circuits, featuring flip-flops, logic gates, and bicolor LEDs. This project demonstrates fundamental digital logic design concepts through an interactive gaming experience.
 
-## 🎮 Features
+## Features
 
 - **Hardware-Based Gameplay**: Physical buttons and LED indicators for interactive experience
 - **Anti-Cheat Protection**: Flip-flop based memory prevents button re-pressing
@@ -12,7 +12,7 @@ A hardware-based Tic Tac Toe game implemented using digital logic circuits, feat
 - **Reset Functionality**: Single button to restart the game
 - **Low Power Design**: Operates on 5V with minimal current consumption
 
-## 🛠 Hardware Components
+## Hardware Components
 
 ### Logic ICs
 - **74HC86N** (6x): XOR gates for player identification
@@ -31,7 +31,7 @@ A hardware-based Tic Tac Toe game implemented using digital logic circuits, feat
 - Push buttons (9x) for player input
 - Custom dual-PCB design
 
-## 🎯 How to Play
+## How to Play
 
 1. **Power On**: Connect 5V power supply and press RESET
 2. **Make Moves**: Players alternate pressing buttons (1-9)
@@ -41,7 +41,7 @@ A hardware-based Tic Tac Toe game implemented using digital logic circuits, feat
 4. **Game End**: Win or Draw LED lights up, all buttons disabled
 5. **New Game**: Press RESET to start over
 
-## 🔌 Power Requirements
+## Power Requirements
 
 - **Input Voltage**: 5V DC
 - **Current Draw**: Low power (few microamperes per IC)
@@ -49,7 +49,7 @@ A hardware-based Tic Tac Toe game implemented using digital logic circuits, feat
 - **Power Connector**: Standard DC jack or terminal block
 
 
-## 📄 License
+## License
 
 This project is open source and available for educational use. Please cite this work if used in academic or educational contexts.
 
